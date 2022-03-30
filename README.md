@@ -1,10 +1,11 @@
 # Vet Clinic DB
 
-> This repository implements the use of relational database to create the data structure for a vet clinic. 
+> This repository implements the use of relational database to create the data structure for a vet clinic.
 > Creates the animals table, insert data of animals and sql to query data.
 > Uses database transactions.
 > Modifies and delete data in SQL.
 > Prepares complex queries that answer analytical questions.
+> Uses primary key & foreign key mechanism for joining tables.
 
 ## Built With
 
@@ -16,8 +17,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. 
-**Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
+  **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 ## Author
 
