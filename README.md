@@ -7,6 +7,8 @@
 > Prepares complex queries that answer analytical questions.
 > Uses primary key & foreign key mechanism for joining tables.
 
+![screenshot](./app_screenshot.png)
+
 ## Built With
 
 - PostgreSQL
